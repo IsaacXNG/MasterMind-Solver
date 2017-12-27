@@ -1,0 +1,129 @@
+@author Xiaoning Guo 
+NetID: Xguo24
+
+mm.java
+
+//Begin
+
+Welcome to MasterMinds. I am the codebreaker.
+You are the codemaker. I will ask you what conditions you want to play with. 
+Press enter to continue.
+
+How many colors do you want to choose from? [No more than 10]
+11
+Enter a valid number next time.
+
+How many colors do you want to choose from? [No more than 10]
+5
+How many positions do you want? [No more than 10]
+5
+Now, choose your code sequence. You may select colors from the following list: Red Orange Yellow Green Blue 
+Enter the color of position 1:
+Pink
+Try again. Enter colors from the following list: Red Orange Yellow Green Blue 
+
+Enter the color of position 1:
+Yellow
+Enter the color of position 2:
+Green
+Enter the color of position 3:
+Blue
+Enter the color of position 4:
+Orange
+Enter the color of position 5:
+Blue
+
+Round 1. Okay, press enter to begin.
+
+[You peek at your code sequence: Yellow Green Blue Orange Blue ]
+[Guess number: 1] My guess is: Red Red Red Red Red 
+Enter the number of correct colors that are in the right position.
+0
+Enter the number of correct colors that are not in the right position.
+0
+[You peek at your code sequence: Yellow Green Blue Orange Blue ]
+[Guess number: 2] My guess is: Orange Orange Orange Orange Orange 
+Enter the number of correct colors that are in the right position.
+1
+Enter the number of correct colors that are not in the right position.
+0
+[You peek at your code sequence: Yellow Green Blue Orange Blue ]
+[Guess number: 3] My guess is: Orange Yellow Yellow Yellow Yellow 
+Enter the number of correct colors that are in the right position.
+0
+Enter the number of correct colors that are not in the right position.
+2
+[You peek at your code sequence: Yellow Green Blue Orange Blue ]
+[Guess number: 4] My guess is: Yellow Orange Green Green Green 
+Enter the number of correct colors that are in the right position.
+1
+Enter the number of correct colors that are not in the right position.
+2
+[You peek at your code sequence: Yellow Green Blue Orange Blue ]
+[Guess number: 5] My guess is: Yellow Green Orange Blue Blue 
+Enter the number of correct colors that are in the right position.
+3
+Enter the number of correct colors that are not in the right position.
+2
+[You peek at your code sequence: Yellow Green Blue Orange Blue ]
+[Guess number: 6] My guess is: Yellow Green Blue Orange Blue 
+Enter the number of correct colors that are in the right position.
+5
+Enter the number of correct colors that are not in the right position.
+0
+
+I win with 6 guesses!
+Do you want to play again [Y/N]?
+y
+
+Now, choose your code sequence. You may select colors from the following list: Red Orange Yellow Green Blue 
+Enter the color of position 1:
+Blue
+Enter the color of position 2:
+Blue
+Enter the color of position 3:
+Blue
+Enter the color of position 4:
+Blue
+Enter the color of position 5:
+Blue
+
+Round 2. Okay, press enter to begin.
+
+[You peek at your code sequence: Blue Blue Blue Blue Blue ]
+[Guess number: 1] My guess is: Red Red Red Red Red 
+Enter the number of correct colors that are in the right position.
+0
+Enter the number of correct colors that are not in the right position.
+0
+[You peek at your code sequence: Blue Blue Blue Blue Blue ]
+[Guess number: 2] My guess is: Orange Orange Orange Orange Orange 
+Enter the number of correct colors that are in the right position.
+0
+Enter the number of correct colors that are not in the right position.
+0
+[You peek at your code sequence: Blue Blue Blue Blue Blue ]
+[Guess number: 3] My guess is: Yellow Yellow Yellow Yellow Yellow 
+Enter the number of correct colors that are in the right position.
+0
+Enter the number of correct colors that are not in the right position.
+0
+[You peek at your code sequence: Blue Blue Blue Blue Blue ]
+[Guess number: 4] My guess is: Green Green Green Green Green 
+Enter the number of correct colors that are in the right position.
+0
+Enter the number of correct colors that are not in the right position.
+0
+[You peek at your code sequence: Blue Blue Blue Blue Blue ]
+[Guess number: 5] My guess is: Blue Blue Blue Blue Blue 
+Enter the number of correct colors that are in the right position.
+1
+Enter the number of correct colors that are not in the right position.
+1
+
+I think you told me false information at some point...
+Do you want to play again [Y/N]?
+n
+Sorry to hear that, see you again!
+
+//End
